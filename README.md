@@ -1,7 +1,8 @@
 # LTPProject
 
 ## Dependencies
-
+Python 3.7.3
+Pytorch 1.1.0
 
 
 ## Running the model
