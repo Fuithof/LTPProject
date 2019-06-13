@@ -1,0 +1,423 @@
+------------------------------------------------VERGELIJKING BASELINE EN FULL LASER----------------------------------------------------------------------
+
+********************** Sentence Examples Analysis ************************
+--- 10 sentences where sys1>sys2 at sentence-level BLEU
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est plus grand que moi .
+sys1: il est plus grand que moi .
+sys2: ▒tudiante l'▒tais utilit▒ dents d▒sol▒s tomb▒ latin apprendre occupons parapluie r▒fl▒chir f▒te prise prie d▒sireux halloween innocente d▒prim▒s derni▒re r▒fl▒chir l'essentiel halloween prie terminer contente
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est dans la cuisine .
+sys1: il est dans la cuisine .
+sys2: moulin raffin▒ simplement monopoly enqu▒tons d▒pourvue collier contente invincible prie prie trouviez n'allez contente fils pla▒t prie v▒tre engag▒ prie prie contente d▒sireux v▒tre pu▒ril
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est trop occup▒ .
+sys1: il est trop occup▒ .
+sys2: canadiens farouchement d▒pass▒ d▒pass▒ m'▒vitez collier parapluie possibilit▒s courses prie possibilit▒s prie clou▒e plong▒ n'allez prie n'allez prie n'allez v▒tre n'allez sorti n'allez latin v▒tre
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est en bonne condition physique .
+sys1: il est en bonne condition physique .
+sys2: farouchement utilit▒ d▒pass▒ mangeur mangeur d▒prim▒s metteur pla▒t comptes bonnes r▒fl▒chir n'allez coriace halloween r▒fl▒chir r▒fl▒chir halloween v▒tre halloween halloween pensent r▒fl▒chir folles affam▒s halloween
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est trop vieux pour toi .
+sys1: il est trop vieux pour toi .
+sys2: tension merde d▒pass▒ d▒pass▒ meilleur invincible lorsque contente d'arriver innocente lorsque n'allez prise pla▒t volontaire pla▒t contente contente volontaire prise contente prestation prestation n'allez n'allez
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est d▒prim▒ .
+sys1: il est d▒prim▒ .
+sys2: volontaire manipulateur diable m'utilise occupons occupons innocente mots prie prise n'allez n'allez n'allez mots prise obsession prise sp▒ciales n'allez docteur innocente n'allez n'allez prise prise
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est malade .
+sys1: il est malade .
+sys2: n▒gociateur ch▒teau aussi possibilit▒s occupons comptes t▒tue plong▒ mots n'avoir halloween halloween mots prise n'avoir halloween halloween halloween mots halloween n'avoir halloween f▒te halloween halloween
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  c'est un bon ▒crivain .
+sys1: c'est un bon ▒crivain .
+sys2: rationnel lits donner touriste j'insiste l'▒tre l'▒tre portefeuille dramaturge d'elle halloween halloween m▒dicament m▒dicament halloween halloween m▒dicament portefeuille cens▒ halloween halloween latin voulez-vous latin rudiments
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  il est tr▒s honn▒te .
+sys1: il est tr▒s honn▒te .
+sys2: voulez-vous regret t▒moigne rende gu▒rison manipulateur clou▒e trouviez trouviez lorsqu'ils plong▒ cellulaire plong▒ prise prise latin envers invitation halloween plong▒ n'avoir n'essaie halloween trouviez n'essaie
+
+sys1-sys2=100.0000, sys1=100.0000, sys2=0
+Ref:  je suis s▒rieux .
+sys1: je suis s▒rieux .
+sys2: canadiens r▒alise trahison voisins l'arch▒type l'arch▒type demandons l'arch▒type prestation l'arch▒type l'arch▒type entre latin aimiez l'arch▒type l'arch▒type latin volontaire latin prestation latin m▒dicament l'entendre l'arch▒type l'arch▒type
+
+--- 10 sentences where sys2>sys1 at sentence-level BLEU
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  ma patience est ▒ bout .
+sys1: je les pour grand la de
+sys2: assur▒ s'int▒resse remu▒es blanc enseigner rajeunissons totale totale invincible invincible courses n'allez l'arch▒type courses charme courses n▒gociateur l'arch▒type choc n'allez courses courses courses courses affreuses
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  ces nouvelles chaussures sont <UNK> .
+sys1: je la que des de heures
+sys2: g▒n▒reuse volontaire tente endurants pire pire photog▒nique films d▒cid▒ment d▒cid▒ment bonnes dites finalement ▒t▒ l'arch▒type europe m▒dicament ▒t▒ m▒diocre bonnes chiant chiant bonnes dites assistant
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  il me <UNK> .
+sys1: je suis trouve bien
+sys2: n▒gociateur manipulateur ... pr▒occupe films appartient l'apporter choses l'impr▒sario march▒ choc lourdaud march▒ bouquins courses tir▒e tir▒e t'appr▒cier remettre volontaire choc gratuits volontaire tir▒e volontaire
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  c'est une <UNK> .
+sys1: elle la mauvaise m▒re
+sys2: rester donner nus manga manipulateur attirantes d▒pourvus affam▒s j'agis latin portefeuille n'allez abattue n'allez r▒fl▒chir n'allez latin n'allez sombre latin r▒fl▒chir soucieuse sp▒ciales arm▒ l'entendre
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  elles <UNK> .
+sys1: ils sont des
+sys2: prise attirants organis▒ une occupons occupons a-t-il docteur rationnel assistant assistant prise secr▒tement choc songe secr▒tement docteur d▒prim▒s d▒prim▒s d▒prim▒s leurs volontaire pensent n▒gociateur d'acheter
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  mieux vaut tard que jamais .
+sys1: vous vous n'est trop tu vue
+sys2: pingre d▒cid▒ mati▒re pire d▒terminer descendre occupons occupons occupons l'estomac reviens gagner emb▒tantes pire s'agisse volontaire occupons emb▒tantes mineure l'estomac pire claires n'allez mineure pla▒t
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  tu <UNK> .
+sys1: vous me bien
+sys2: bague ▒tudiantes m▒contente occupons d▒cid▒ment occupons d▒cid▒ment c▒ramique portefeuille f▒te hiver entre perception d'acheter monopoly parapluie d▒prim▒s parapluie monopoly d▒cid▒ment volontaire m'▒vitez l'opportunit▒ parapluie courses
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  tu vas bien .
+sys1: vous es es grand
+sys2: adorerez ch▒teau l'astronomie plaint prise meilleur pla▒t lorsque prise parapluie f▒te occupons r▒fl▒chis contente f▒te f▒te choc halloween prestation pla▒t prise l'arch▒type f▒te halloween sp▒ciales
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  tu <UNK> .
+sys1: vous es confus
+sys2: bouillir cr▒atives manga meilleur occupons mangeur prise halloween pensent coriace m▒dicament envers qu'▒ halloween envers aussi aimiez m▒dicament docteur m▒dicament d▒biteur moyens monopoly regret peintre
+
+sys1-sys2=0, sys1=0, sys2=0
+Ref:  je ne pense qu'▒ toi .
+sys1: tu vous le pas que qui
+sys2: belle violent gu▒rison pendre g▒orgie l'australie contente occupons marier cheval monopoly lourdaud autre intelligents connaissent d▒butant contente sculptent pr▒vu gagner d▒prim▒s prestation lourdaud timides sages
+
+----------------------------------------------------------------------VERGELIJKING BASELINE EN MORE LASER-----------------------------------------------------------------------
+********************** Sentence Examples Analysis ************************
+--- 10 sentences where sys1>sys2 at sentence-level BLEU
+sys1-sys2=69.7862, sys1=100.0000, sys2=30.2138
+Ref:  c'est une bonne nageuse .
+sys1: c'est une bonne nageuse .
+sys2: elle une femme fille .
+
+sys1-sys2=66.9684, sys1=100.0000, sys2=33.0316
+Ref:  il est dans la cuisine .
+sys1: il est dans la cuisine .
+sys2: il est ▒ la recherche .
+
+sys1-sys2=63.4445, sys1=100.0000, sys2=36.5555
+Ref:  je suis ▒ ton c▒t▒ .
+sys1: je suis ▒ ton c▒t▒ .
+sys2: je suis de toi c▒t▒ .
+
+sys1-sys2=61.7397, sys1=100.0000, sys2=38.2603
+Ref:  il est en bonne condition physique .
+sys1: il est en bonne condition physique .
+sys2: il est en col▒re condition . .
+
+sys1-sys2=61.7397, sys1=100.0000, sys2=38.2603
+Ref:  elle est trop vieille pour toi .
+sys1: elle est trop vieille pour toi .
+sys2: elle est trop ▒g▒e pour vous .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  c'est un bon ▒crivain .
+sys1: c'est un bon ▒crivain .
+sys2: c'est un gar▒on orateur .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  nous sommes les meilleurs .
+sys1: nous sommes les meilleurs .
+sys2: nous sommes toutes meilleures .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  nous sommes tous l▒ .
+sys1: nous sommes tous l▒ .
+sys2: nous sommes toutes deux .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  vous ▒tes fort ▒l▒gante .
+sys1: vous ▒tes fort ▒l▒gante .
+sys2: vous ▒tes tr▒s attirant .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  vous ▒tes tr▒s curieux .
+sys1: vous ▒tes tr▒s curieux .
+sys2: vous ▒tes fort attirants .
+
+--- 10 sentences where sys2>sys1 at sentence-level BLEU
+sys1-sys2=-45.1801, sys1=0, sys2=45.1801
+Ref:  j'ai faim !
+sys1: je du .
+sys2: je faim .
+
+sys1-sys2=-45.1801, sys1=0, sys2=45.1801
+Ref:  elles <UNK> .
+sys1: ils sont des
+sys2: ils sont .
+
+sys1-sys2=-45.1801, sys1=0, sys2=45.1801
+Ref:  tu <UNK> .
+sys1: vous es confus
+sys2: vous es .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  elle porte un chapeau .
+sys1: elle porte une chapeau .
+sys2: elle porte un chapeau .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  nous sommes trop proches .
+sys1: nous sommes toujours proches .
+sys2: nous sommes trop proches .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  vous ▒tes tr▒s ▒l▒gante .
+sys1: vous ▒tes fort ▒l▒gante .
+sys2: vous ▒tes tr▒s ▒l▒gante .
+
+sys1-sys2=-56.8330, sys1=43.1670, sys2=100.0000
+Ref:  vous n'▒tes pas aussi malin que moi .
+sys1: tu n'▒tes pas aussi malignes que moi .
+sys2: vous n'▒tes pas aussi malin que moi .
+
+sys1-sys2=-61.3903, sys1=38.6097, sys2=100.0000
+Ref:  vous ▒tes probablement fatigu▒e .
+sys1: tu ▒tes probablement fatigu▒ .
+sys2: vous ▒tes probablement fatigu▒e .
+
+sys1-sys2=-66.9684, sys1=33.0316, sys2=100.0000
+Ref:  il a peur des chiens .
+sys1: il est peur de chiens .
+sys2: il a peur des chiens .
+
+sys1-sys2=-68.7606, sys1=31.2394, sys2=100.0000
+Ref:  je suis ravi d'▒tre ici .
+sys1: je suis juste que l▒ .
+sys2: je suis ravi d'▒tre ici .
+
+
+
+----------------------------------------------------------------------VERGELIJKING BASELINE EN AVERAGE-----------------------------------------------------------------------
+********************** Sentence Examples Analysis ************************
+--- 10 sentences where sys1>sys2 at sentence-level BLEU
+sys1-sys2=69.7862, sys1=100.0000, sys2=30.2138
+Ref:  c'est une bonne nageuse .
+sys1: c'est une bonne nageuse .
+sys2: elle une femme fille .
+
+sys1-sys2=66.9684, sys1=100.0000, sys2=33.0316
+Ref:  il est dans la cuisine .
+sys1: il est dans la cuisine .
+sys2: il est en la maison .
+
+sys1-sys2=63.4445, sys1=100.0000, sys2=36.5555
+Ref:  je suis ▒ ton c▒t▒ .
+sys1: je suis ▒ ton c▒t▒ .
+sys2: je suis de votre c▒t▒ .
+
+sys1-sys2=61.7397, sys1=100.0000, sys2=38.2603
+Ref:  il est en bonne condition physique .
+sys1: il est en bonne condition physique .
+sys2: il est en train condition la .
+
+sys1-sys2=61.4511, sys1=82.6517, sys2=21.2006
+Ref:  elle a environ le m▒me ▒ge que ma s▒ur <UNK> .
+sys1: elle a environ le m▒me ▒ge que ma s▒ur . .
+sys2: elle est environ le plus ▒ge que j'ai s▒ur . .
+
+sys1-sys2=60.3639, sys1=75.9836, sys2=15.6197
+Ref:  d▒sol▒ de ne pas avoir r▒pondu plus t▒t .
+sys1: je , ne pas avoir r▒pondu plus t▒t .
+sys2: je , ne me ce que que que .
+
+sys1-sys2=60.2365, sys1=100.0000, sys2=39.7635
+Ref:  nous nous retirons .
+sys1: nous nous retirons .
+sys2: nous sommes sommes .
+
+sys1-sys2=60.2365, sys1=100.0000, sys2=39.7635
+Ref:  vous allez mourir .
+sys1: vous allez mourir .
+sys2: tu allez adorer .
+
+sys1-sys2=54.8199, sys1=100.0000, sys2=45.1801
+Ref:  elle porte un chapeau .
+sys1: elle porte un chapeau .
+sys2: elle porte une chapeau .
+
+sys1-sys2=54.3258, sys1=80.9107, sys2=26.5848
+Ref:  je suis d▒sol▒e de ne pas avoir pu assister ▒ votre f▒te .
+sys1: je suis d▒sol▒ de ne pas avoir pu assister ▒ votre f▒te .
+sys2: je suis d▒sol▒ d'avoir ne pas avoir davantage assister ▒ faire f▒te .
+
+--- 10 sentences where sys2>sys1 at sentence-level BLEU
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  je suis dure .
+sys1: je suis appliqu▒e .
+sys2: je suis dure .
+
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  je suis paresseux .
+sys1: je suis fain▒ant .
+sys2: je suis paresseux .
+
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  elle est gentille .
+sys1: elle est m▒re .
+sys2: elle est gentille .
+
+sys1-sys2=-49.9638, sys1=25.0986, sys2=75.0624
+Ref:  nous ne sommes pas ici pour <UNK> .
+sys1: nous sommes sommes pas l▒ pour te ici
+sys2: nous ne sommes pas ici pour toi .
+
+sys1-sys2=-50.0000, sys1=0, sys2=50.0000
+Ref:  elles <UNK> .
+sys1: ils sont des
+sys2: elles sont .
+
+sys1-sys2=-51.1077, sys1=48.8923, sys2=100.0000
+Ref:  je suis ▒ la maison .
+sys1: je suis chez la maison .
+sys2: je suis ▒ la maison .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  nous sommes trop proches .
+sys1: nous sommes toujours proches .
+sys2: nous sommes trop proches .
+
+sys1-sys2=-56.5279, sys1=43.4721, sys2=100.0000
+Ref:  il est capitaine de l'▒quipe .
+sys1: il est capitaine en la .
+sys2: il est capitaine de l'▒quipe .
+
+sys1-sys2=-61.3903, sys1=38.6097, sys2=100.0000
+Ref:  vous ▒tes probablement fatigu▒e .
+sys1: tu ▒tes probablement fatigu▒ .
+sys2: vous ▒tes probablement fatigu▒e .
+
+sys1-sys2=-61.7397, sys1=38.2603, sys2=100.0000
+Ref:  nous sommes toutes en col▒re .
+sys1: nous sommes en folles col▒re .
+sys2: nous sommes toutes en col▒re .
+
+
+
+----------------------------------------------------------------------VERGELIJKING BASELINE EN MORE CE-----------------------------------------------------------------------
+
+********************** Sentence Examples Analysis ************************
+--- 10 sentences where sys1>sys2 at sentence-level BLEU
+sys1-sys2=69.7862, sys1=100.0000, sys2=30.2138
+Ref:  elle porte un chapeau .
+sys1: elle porte un chapeau .
+sys2: c'est porte une manteau .
+
+sys1-sys2=69.7862, sys1=100.0000, sys2=30.2138
+Ref:  c'est une bonne nageuse .
+sys1: c'est une bonne nageuse .
+sys2: elle une femme fille .
+
+sys1-sys2=67.8271, sys1=100.0000, sys2=32.1729
+Ref:  je suis heureux de vous voir .
+sys1: je suis heureux de vous voir .
+sys2: je suis content de te voir .
+
+sys1-sys2=64.8242, sys1=82.6517, sys2=17.8275
+Ref:  elle a environ le m▒me ▒ge que ma s▒ur <UNK> .
+sys1: elle a environ le m▒me ▒ge que ma s▒ur . .
+sys2: c'est est peu le genre ▒ge que mon s▒ur . .
+
+sys1-sys2=61.8696, sys1=75.9836, sys2=14.1140
+Ref:  d▒sol▒ de ne pas avoir r▒pondu plus t▒t .
+sys1: je , ne pas avoir r▒pondu plus t▒t .
+sys2: je , suis suis honte je pas que que
+
+sys1-sys2=61.7397, sys1=100.0000, sys2=38.2603
+Ref:  il est en bonne condition physique .
+sys1: il est en bonne condition physique .
+sys2: il est en retard condition un .
+
+sys1-sys2=61.3903, sys1=100.0000, sys2=38.6097
+Ref:  nous sommes tr▒s heureux .
+sys1: nous sommes tr▒s heureux .
+sys2: nous sommes d▒sormais en .
+
+sys1-sys2=61.2357, sys1=80.9107, sys2=19.6750
+Ref:  je suis d▒sol▒e de ne pas avoir pu assister ▒ votre f▒te .
+sys1: je suis d▒sol▒ de ne pas avoir pu assister ▒ votre f▒te .
+sys2: je suis d▒sol▒ de vous pas t'avoir pu assister de me f▒te .
+
+sys1-sys2=60.2365, sys1=100.0000, sys2=39.7635
+Ref:  nous nous retirons .
+sys1: nous nous retirons .
+sys2: nous sommes en .
+
+sys1-sys2=60.2365, sys1=100.0000, sys2=39.7635
+Ref:  vous ▒tes matinale .
+sys1: vous ▒tes matinale .
+sys2: tu ▒tes en .
+
+--- 10 sentences where sys2>sys1 at sentence-level BLEU
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  je suis dure .
+sys1: je suis appliqu▒e .
+sys2: je suis dure .
+
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  elle est gentille .
+sys1: elle est m▒re .
+sys2: elle est gentille .
+
+sys1-sys2=-49.1867, sys1=50.8133, sys2=100.0000
+Ref:  vous ▒tes grandes .
+sys1: vous ▒tes grand .
+sys2: vous ▒tes grandes .
+
+sys1-sys2=-50.0000, sys1=0, sys2=50.0000
+Ref:  elles <UNK> .
+sys1: ils sont des
+sys2: elles sont .
+
+sys1-sys2=-51.1077, sys1=48.8923, sys2=100.0000
+Ref:  ils sont dans la douche .
+sys1: ils sont ▒ la douche .
+sys2: ils sont dans la douche .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  elle porte un chapeau .
+sys1: elle porte une chapeau .
+sys2: elle porte un chapeau .
+
+sys1-sys2=-54.8199, sys1=45.1801, sys2=100.0000
+Ref:  nous sommes trop proches .
+sys1: nous sommes toujours proches .
+sys2: nous sommes trop proches .
+
+sys1-sys2=-56.8330, sys1=43.1670, sys2=100.0000
+Ref:  vous n'▒tes pas aussi malin que moi .
+sys1: tu n'▒tes pas aussi malignes que moi .
+sys2: vous n'▒tes pas aussi malin que moi .
+
+sys1-sys2=-61.3903, sys1=38.6097, sys2=100.0000
+Ref:  vous ▒tes probablement fatigu▒e .
+sys1: tu ▒tes probablement fatigu▒ .
+sys2: vous ▒tes probablement fatigu▒e .
+
+sys1-sys2=-67.8271, sys1=32.1729, sys2=100.0000
+Ref:  il est en train de d▒jeuner .
+sys1: il est handicap▒ train de lire .
+sys2: il est en train de d▒jeuner .
+
+
