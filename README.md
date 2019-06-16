@@ -1,7 +1,7 @@
 # LTPProject
 
 ## Dependencies
-Python 3.7.3
+Python 3.7.3  
 Pytorch 1.1.0
 
 
